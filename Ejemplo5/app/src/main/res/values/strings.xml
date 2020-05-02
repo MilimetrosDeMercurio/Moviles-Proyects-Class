@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ejemplo5</string>
+    <string name="text_nombre_de_pokemon">Nombre de Pokemon:</string>
+    <string name="action_enviar">enviar</string>
+    <string name="text_hint_pokemon_name">Ingrese nombre o ID de Pokemon</string>
+</resources>
